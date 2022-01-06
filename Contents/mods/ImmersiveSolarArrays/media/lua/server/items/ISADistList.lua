@@ -50,7 +50,7 @@ registerAsLoot(iReg, 0.10 * ISApanelLootMult, "CrateRandomJunk");
 registerAsLoot(iReg, 0.05 * ISApanelLootMult, "CrateTools");
 registerAsLoot(iReg, 0.10 * ISApanelLootMult, "CampingStoreGear");
 registerAsLoot(iReg, 0.10 * ISApanelLootMult, "OtherGeneric");
-registerAsLoot(iReg, 0.10 * ISApanelLootMult, "GarageMechanic");
+registerAsLoot(iReg, 0.10 * ISApanelLootMult, "GarageMechanics");
 registerAsLoot(iReg, 0.10 * ISApanelLootMult, "ElectronicStoreAppliances");
 registerAsLoot(iReg, 0.10 * ISApanelLootMult, "ToolStoreFarming");
 registerAsLoot(iReg, 0.05 * ISApanelLootMult, "CratePaint");
